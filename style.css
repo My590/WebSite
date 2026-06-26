@@ -6,9 +6,10 @@ body {
 nav{
     width: 100%;
     display: flex;
-    background-color: #333;
+    background-color: #413fc4;
     margin: 0;
-    gap: 3% max(5%);
+    padding: 10px 0;
+    gap: 3%;
 }
 
 a{
@@ -32,19 +33,101 @@ h1{
 }
 
 span{
-    animation: Color 1.5s infinite;
     font-weight: bold;
     margin: 10px 3%;
     font-size: 1.2em;
+    animation: cores 1.5s infinite;
 }
 
 footer{
-    background-color: #333;
+    background-color: #413fc4;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 10px 0;
     bottom: 0;
     width: 100%;
+}
+
+footer p{
+    text-align: center;
+}
+
+.Lakitu{
+    margin-bottom: 20px; 
+    margin-left: 3%;  
+    height: 100px;
+    width: 100px;
+    max-width: 200px;
+    max-height: 200px;
+    animation: voar 1.5s infinite;
+}
+
+.Jump{
+    margin-bottom: 20px; 
+    margin-left: 3%;  
+    height: 100px;
+    width: 100px;
+    max-width: 200px;
+    max-height: 200px;
+    animation: balançar 2s infinite;
+}
+
+.Toad{
+    margin-bottom: 20px; 
+    margin-left: 3%;  
+    height: 100px;
+    width: 100px;
+    max-width: 200px;
+    max-height: 200px;
+    opacity: 0.79;
+    animation: distorcer 1.5s infinite;
+}
+
+.Ralsei, .Kris, .ShadowGuy{
+    margin-bottom: 20px; 
+    margin-left: 3%;  
+    height: 100px;
+    width: 100px;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.TvTime{
+    animation: expandir 2s infinite;
+}
+
+.popUp{
+    height: 70px;
+}
+
+.paper{
+    justify-self: center;
+    height: 80px;
+    padding: 10px 35px;
+    transform: scaleX(-1);
+}
+
+.Boo{
+    height: 100px;
+    padding: 0 150px;
+    margin-bottom: 15px;
+    animation: voar 1.5s infinite;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.container img {
+    display: block;
+}
+
+.container span {
+    position: absolute;
+    top: 25px;
+    left: 45px;
+    font-size: 15px;
 }
 
 @keyframes aparecer {
@@ -58,7 +141,7 @@ footer{
     }
 }
 
-@keyframes Color {
+@keyframes cores {
     0% {
         color: #000000;
         
@@ -85,3 +168,41 @@ footer{
     }
 }
 
+    @keyframes voar {
+        0% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-10px);
+        }
+        100% {
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes balançar {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(20deg); }
+    50% { transform: rotate(-20deg); }
+    75% { transform: rotate(20deg); }
+    100% { transform: rotate(0deg); }
+}
+
+    @keyframes distorcer {
+    0%{
+        transform: skewX(-10deg);
+    }
+    25% {
+        transform: skewX(10deg);
+    }
+}
+
+    @keyframes expandir {
+        0% {
+            transform: scale(0);
+        }
+
+        100% {
+            transform: scale(0.7);
+        }
+    }

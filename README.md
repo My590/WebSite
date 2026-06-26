@@ -1,11 +1,11 @@
 # 🌐 Website
 
-Este projeto foi criado com dois objetivos: apresentar um pouco mais sobre mim e servir como um espaço para colocar minhas ideias em prática enquanto aprendo desenvolvimento web.
+This project was created with two goals: to share a bit more about myself and to serve as a space to put my ideas into practice while learning web development.
 
-A proposta é criar um site interativo, agradável e sem aquele excesso de formalidade. Quero que quem o visite se divirta explorando as páginas, enquanto eu experimento novos recursos e aprimoro minhas habilidades.
+The idea is to create an interactive, enjoyable site without that excessive formality. I want anyone who visits to have fun exploring the pages, while I experiment with new features and improve my skills.
 
-O principal foco do projeto é descobrir até onde consigo chegar utilizando **HTML** e **CSS**, explorando animações, efeitos, layouts responsivos e outras técnicas que tornem a experiência cada vez mais interessante. Com o tempo, pretendo adicionar novas funcionalidades e continuar evoluindo o site.
+The main focus of the project is to see how far I can go using **HTML** and **CSS**, exploring animations, effects, responsive layouts, and other techniques that make the experience increasingly interesting. Over time, I plan to add new features and keep evolving the site.
 
 # 🔗 Link do site
 
-> *(Adicione o link aqui quando estiver disponível.)*
+> *https://my590.github.io/WebSite/*
