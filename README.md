@@ -1,11 +1,22 @@
 # 🌐 Website
 
-This project was created with two goals: to share a bit more about myself and to serve as a space to put my ideas into practice while learning web development.
+Welcome to my personal website!
 
-The idea is to create an interactive, enjoyable site without that excessive formality. I want anyone who visits to have fun exploring the pages, while I experiment with new features and improve my skills.
+This project has two main goals: to share a bit about myself and to challenge my web development skills by building something interactive and creative.
 
-The main focus of the project is to see how far I can go using **HTML** and **CSS**, exploring animations, effects, responsive layouts, and other techniques that make the experience increasingly interesting. Over time, I plan to add new features and keep evolving the site.
+Instead of creating a very formal portfolio, I wanted this site to feel like an experience, a moment to enjoy. Visitors are encouraged to explore, interact with the page, and hopefully have fun along the way. At the same time, it serves as my space to experiment with new ideas, improve my code, and learn modern web development techniques.
 
-# 🔗 Link do site
+The project is built mainly with **HTML** and **CSS**, with a strong focus on animations and visual effects. As I keep learning, I plan to expand the site with new features, enhance the existing ones, and continue pushing the limits of what I can create. Who knows, I might add JavaScript and much more!
 
-> *https://my590.github.io/WebSite/*
+## 🎮 Inspirations
+
+Some of the visual style, atmosphere, and design ideas are inspired by games I enjoy, including:
+
+* **Paper Mario: Sticker Star**
+* **Deltarune**
+* **Pokémon**
+* **Danganronpa**
+
+## 🔗 Website
+
+> **https://my590.github.io/WebSite/**
