@@ -120,10 +120,8 @@ h5 {
 }
 
 .Inkling{
-    position: relative;
-    top: 10px;
-    left:5px;
     height: 70px;
+    width: 90px;
     animation: expandir 1s infinite;
 }
 

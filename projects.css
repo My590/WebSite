@@ -68,6 +68,9 @@
 
 .Soul {
     height: 60px;
+    width: 60px;
+    max-width: 60px;
+    max-height: 60px;
     animation: berambular 2s infinite;
 }
 
