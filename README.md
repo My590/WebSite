@@ -1,24 +1,24 @@
-# About
+# A little about
+Welcome to my site with simple animations.
 
-Welcome to site full of animation!
+It’s a static gaming-themed site featuring games I love and reference. The idea was that it wouldn’t be extremely formal but would be fun. I couldn’t manage to make bigger animations or use 3D images. I even knew which library to use (Three.js), but it didn’t work. So, I just kept it simple. Of course, a library isn’t necessary for 3D animations, but it was one I saw with great potential for that purpose.
 
-This project has two main goals: to share a bit about myself and to challenge my web development skills by building something interactive and creative.
+One site that inspired me was the Splatoon 3 site on Nintendo. It has some animations but is still very visually focused. I’d say almost exaggerated, but I don’t mean badly because it’s well-organized and therefore pleasant. I think the aesthetic of exaggeration in some things makes sense and is interesting despite the effort involved. But I don’t think I could make it harmonious; it probably would just look weird.
 
-Instead of creating a very formal portfolio, I wanted this site to feel like an experience, a moment to enjoy. Visitors are encouraged to explore, interact with the page, and hopefully have fun along the way. At the same time, it serves as my space to experiment with new ideas, improve my code, and learn modern web development techniques.
+The main goal was just to get better at CSS and responsiveness, but I have to say I removed some animations because they were breaking the site. Even after reducing them, it looked good on a computer but only okay on a phone.
 
-The project is built mainly with **HTML** and **CSS**, with a strong focus on animations and visual effects. As I keep learning, I plan to expand the site with new features, enhance the existing ones, and continue pushing the limits of what I can create. Who knows, I might who knows, I might add more things.
+The site is meant to showcase some simple projects I’ve already developed and others I’d like to develop over time. It's a little about me.
 
-## 🎮 Inspirations
+I hope you like the website :3
+
+## Some inspirations
 
 Some of the visual style, atmosphere, and design ideas are inspired by games I enjoy, including:
+> https://splatoon.nintendo.com/
+* *Paper Mario: Sticker Star*
+* *Deltarune*
+* *Splatoon*
+* *The legend of Zelda*
 
-* **Paper Mario: Sticker Star**
-* **Deltarune**
-* **Pokémon**
-* **Splatton**
-* **The legend of Zelda**
-* **Cuphead**
-
-## 🌐 Website
-
-> **https://my590.github.io/WebSite/**
+## Website
+> https://my590.github.io/WebSite/
